@@ -1,5 +1,11 @@
 # urlshortner1
-The URL shortener is a Python project that converts 
-long URLs into shorter, more manageable links. It takes a long URL as input, generates a 
-unique shortened URL, and redirects users to the original URL when the shortened link is 
-accessed
+Designed and developed a URL shortener application that transforms long URLs into concise, manageable links
+• Built the system using the Django framework, integrating HTML, CSS, JavaScript, and SQL for efficient database
+management.
+• Achieved a 79% accuracy rate in link shortening, showcasing reliability and precision
+
+Python, Django Framework, SQL, JavaScript
+
+
+https://github.com/user-attachments/assets/0dddb63b-42f6-4ef9-b183-d47352fc448a
+
